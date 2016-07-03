@@ -1,6 +1,8 @@
 multiple=[]
 sum=0
 a=0
+b=0
+c=0
 
 while(a<=1000):
 	if(a%3==0 or a%5==0):
